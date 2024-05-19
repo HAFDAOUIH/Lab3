@@ -8,8 +8,7 @@ This repository contains a Jupyter Notebook for the Short Answer Grading Capston
 3. [Installation](#installation)
 4. [Usage](#usage)
 5. [Notebook Details](#notebook-details)
-6. [Results](#results)
-7. [Contributing](#contributing)
+6. [Contributing](#contributing)
 
 ## Project Overview
 The goal of this project is to develop a machine learning model capable of grading short answer questions. This involves natural language processing (NLP) techniques to understand and evaluate the textual responses against expected answers.
@@ -43,3 +42,21 @@ Clone the repository:
 ```sh
 git clone https://github.com/HAFDAOUIH/short_answer_grading.git
 ```
+
+## Notebook Details
+
+The notebook is organized as follows:
+
+1. **Introduction**: Overview of the project and the problem statement.
+2. **Data Loading and Preprocessing**: Steps to load the dataset and preprocess the text data for analysis.
+3. **Exploratory Data Analysis (EDA)**: Visualizations and analysis to understand the distribution of scores and text characteristics.
+4. **Feature Engineering**: Techniques used to extract features from the text data.
+5. **Model Training and Evaluation**: Training various machine learning models and evaluating their performance.
+6. **Results and Discussion**: Analysis of model performance and discussion of results.
+7. **Conclusion**: Summary of findings and potential future work.
+
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that your code follows the project's style guidelines and includes appropriate tests.
+
