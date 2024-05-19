@@ -36,3 +36,9 @@ To run the notebook and reproduce the results, you need to have the following so
 You can install the necessary libraries using pip:
 ```sh
 pip install pandas numpy scikit-learn nltk matplotlib seaborn
+
+
+## Usage
+Clone the repository:
+```sh
+git clone https://github.com/HAFDAOUIH/short_answer_grading.git
